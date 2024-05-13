@@ -24,7 +24,7 @@
     <?php include '../components/admin_header.php'; ?>
     <div class="main">
         <div class="banner">
-            <h1>Registered User's And Admin's</h1>
+            <h1>Accounts</h1>
         </div>
         <div class="title2">
             <a href="dashboard.php">Dashboard </a><span> / Registered User's And Admin's</span>
